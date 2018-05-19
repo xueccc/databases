@@ -29,6 +29,7 @@ node_modules/
 bower_components/
 
 # Floobits
+.DS_Store
 .floo
 .floobit
 .floo
